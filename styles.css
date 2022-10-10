@@ -31,3 +31,36 @@
 .img2c{
     left:103px;
 }
+@media screen and (max-width:768px) {
+    .imlogo{
+        position: relative;
+        left:150px;
+    }
+    .imlogo2{
+        position: relative;
+        left: 100px;
+        padding-bottom: 20px;
+    } 
+    .headimg{
+        left:0px;
+    }
+    .img2c{
+        left:0px;
+        margin-left: 30px;
+    }
+    .downbt{
+        padding-top: 3%;
+        padding-bottom: 8%;
+    }
+    .downbt1{
+        position: relative;
+        left: 40px;
+        padding-top: 3%;
+        padding-bottom: 3%;
+    }
+    .downt{
+        position: relative;
+        left:25px;
+        padding-bottom: 30%;
+    }
+}
